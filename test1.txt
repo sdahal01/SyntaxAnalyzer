@@ -1,0 +1,14 @@
+$$
+
+$$
+
+    real num1, num2;
+	integer x;
+	num1 := 7;
+    read(num1, num2);
+    if(num1 < num2)
+    {
+		print(num1);
+		print(doSomething[num1,num2]);
+    }endif
+$$
